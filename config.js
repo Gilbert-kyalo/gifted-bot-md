@@ -7,24 +7,24 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="admin@giftedtechnexus.co.ke"
-global.location="Eldoret,Kenya."
+global.email ="admin@gilbertkyalotech.co.ke"
+global.location="Karatina,Kenya."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/Giftedmaurice/gifted-bot-md";
+global.github=process.env.GITHUB|| "https://github.com/Gilbertkyalo/gilbert-bot-md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "254728782591" // Developer Contact
+global.devs = "254795443901" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254795443901";
 
 
 
@@ -55,7 +55,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254728782591,923xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://qr-scan.giftedtechnexus.co.ke/";
+global.scan = "https://qr-scan.gilbertkyalotech.co.ke/";
 
 module.exports = {
 
@@ -69,7 +69,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  ownername:process.env.OWNER_NAME|| "It's GiftedTech",
+  ownername:process.env.OWNER_NAME|| "It's Gilberttech",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
@@ -84,8 +84,8 @@ module.exports = {
 
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
-  WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "GIFTED",
+  WORKTYPE: process.env.WORKTYPE||process.env.MODE || "public",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "GILBERT",
 
 
 
