@@ -18,7 +18,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="ɢɪlbert ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
 
 ---
 
