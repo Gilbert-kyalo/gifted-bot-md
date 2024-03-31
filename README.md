@@ -1,8 +1,8 @@
  <h1 align="center"> ɢɪlbert ʙᴏᴛ ᴍᴅ🔥 </h1> 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ɢilbert ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://github.com/Giftedmaurice/gifted-bot-md">
+  <a href="https://github.com/Gilbertkyalo/gilbert-bot-md">
     <img alt="Suhail docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
   </a>
 </p>
@@ -10,11 +10,11 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GILBERT ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="ɢɪlbert ʙᴏᴛ is free to use" href="https://github.com/Gilbertkyalo/gilbert-bot-md" target="_blank">
+    <img alt="Gilbertkyalo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -25,7 +25,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ uses
+<p align="center"> ɢɪlbert ʙᴏᴛ ᴍᴅ uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Giftedmaurice/gifted-bot-md"><b>Gifted-Bot</b></a> Support Deploy On...
+  <a href="https://github.com/Gilbertkyalo/gilbert-bot-md"><b>Gilbert-Bot</b></a> Support Deploy On...
 </p>
 
 <p align="center">
