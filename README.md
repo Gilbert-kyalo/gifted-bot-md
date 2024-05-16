@@ -14,7 +14,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪlbert ʙᴏᴛ is free to use" href="https://github.com/Gilbertkyalo/gilbert-bot-md" target="_blank">
-    <img alt="Gilbertkyalo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwP" target="_blank" />
+    <img alt="Gilbertkyalo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
