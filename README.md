@@ -10,7 +10,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GILBERT ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254795443901?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GILBERT ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪlbert ʙᴏᴛ is free to use" href="https://github.com/Gilbertkyalo/gilbert-bot-md" target="_blank">
@@ -78,7 +78,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.giftedtechnexus.co.ke/) Or [`PARING CODE`](https://replit.com/@giftedmaurice045/GiftedtechPairingCode#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://qr-scan.gilbertkyalo.co.ke/) Or [`PARING CODE`](https://replit.com/@giftedmaurice045/GiftedtechPairingCode#index.js). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Gilbertkyalo/gilbert-bot-md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
