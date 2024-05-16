@@ -1,4 +1,4 @@
- <h1 align="center"> ɢɪlbert ʙᴏᴛ ᴍᴅ🔥 </h1> 
+ <h1 align="center"> ɢɪlbert ʙᴏᴛ ᴍᴅ🎭 </h1> 
 <p align="center"> Introducing ɢilbert ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
