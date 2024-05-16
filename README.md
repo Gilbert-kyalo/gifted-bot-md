@@ -1,4 +1,4 @@
- <h1 align="center"> ɢɪlbert ʙᴏᴛ ᴍᴅ🎭 </h1> 
+ <h1 align="center"> Gilbert BOT ᴍᴅ🎭 </h1> 
 <p align="center"> Introducing ɢilbert ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="ɢɪlbert ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Gilbert-kyalo}/count.svg" alt="ɢɪlbert ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
 
 ---
 
