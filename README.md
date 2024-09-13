@@ -1,5 +1,5 @@
- <h1 align="center"> Gilbert BOT ᴍᴅ🎭 </h1> 
-<p align="center"> Introducing ɢilbert ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> GILBERT BOT  </h1> 
+<p align="center"> Introducing GILBERT BOT, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/Gilbertkyalo/gilbert-bot-md">
