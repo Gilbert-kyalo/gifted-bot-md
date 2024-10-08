@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Gilbertkyalo/gilbert-bot-md">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/cad7038fe82e47ff79c609.jpg">
   </a>
 </p>
     
