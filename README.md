@@ -1,4 +1,4 @@
- <h1 align="center"> GILBERT BOT  </h1> 
+ <h1 align="right"> GILBERT BOT  </h1> 
 <p align="center"> Introducing GILBERT BOT, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
@@ -89,7 +89,7 @@
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254795443901&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪlbert&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪlbertkyalo&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GILBERT&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
 
 ##
----
+----
 
 
 - Star ⭐ repo and fork it if you like this bot.
@@ -102,7 +102,7 @@
 
 
 
-<h2 align="center">  NOTICE
+<h2 align="left">  NOTICE
 </h2>
    
 ## 
