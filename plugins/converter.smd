@@ -5,7 +5,7 @@
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
+//           ██████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
 //            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
 //            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
 //            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
@@ -16,20 +16,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
+   * @project_name : Gilbert-Md
+   * @author : Gilbert kyalo  
    * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @description : Gilbert-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
+   * Created By Gilbert Tech Info.
    * © 2024 Suhail-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Gilbert_Md = "Gilbert MD Whatsapp bot md"
  
 
 
