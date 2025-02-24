@@ -1,4 +1,4 @@
- <h1 align="center"> GILBERT BOT  </h1> 
+ <h1 align="left"> GILBERT BOT  </h1> 
 <p align="center"> Introducing GILBERT BOT, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
